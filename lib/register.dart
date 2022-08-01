@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'login.dart';
 
 class UserRegister extends StatefulWidget {
@@ -170,6 +171,7 @@ class RegisterSaveInfoAndGoToLogin extends StatelessWidget{
 
   Widget build(BuildContext context)
   {
+    
     return Scaffold();
   }
 
@@ -180,3 +182,4 @@ class RegisterSaveInfoAndGoToLogin extends StatelessWidget{
     return;
   }
 }
+
